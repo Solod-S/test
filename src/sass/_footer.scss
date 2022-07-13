@@ -1,0 +1,11 @@
+.footer {
+  display: flex;
+  padding: 40px 50px;
+  background-color: red;
+  &__item {
+    color: aliceblue;
+    &:not(:last-child) {
+      margin-right: 20px;
+    }
+  }
+}
