@@ -99,3 +99,9 @@ Pages, в ветку `gh-pages`, каждый раз когда обновляе
 3. Если все шаги прошли успешно, собранная продакшн версия файлов проекта
    отправляется в ветку `gh-pages`. В противном случае, в логе выполнения
    скрипта будет указано в чем проблема.
+
+"repository": { "type": "git", "url":
+"git+https://github.com/goitacademy/parcel-project-template.git" }, "keywords":
+[], "author": "Alexander Repeta <alexander.repeta@gmail.com>", "license": "ISC",
+"bugs": { "url": "https://github.com/goitacademy/parcel-project-template/issues"
+},
