@@ -1,0 +1,12 @@
+.header-nav {
+  display: flex;
+  list-style: none;
+  &__item {
+    color: red;
+    &:not(:last-child) {
+      margin-right: 10px;
+    }
+  }
+}
+// .header-nav__item {
+// }
